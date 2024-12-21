@@ -1,0 +1,1 @@
+chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/humanWritingReport.common.chunk.js
